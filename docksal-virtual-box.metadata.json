@@ -1,0 +1,18 @@
+{
+    "name": "docksal-virtual-box",
+    "description": "Docksal Virtual Box",
+    "versions": [
+        {
+            "version": "0.1",
+            "status": "active",
+            "providers": [
+                {
+                    "name": "virtualbox",
+                    "url": "https://www.dropbox.com/s/2ndc2wr17tisjj4/docksal_virtual_box-v0.1.box?dl=1",
+                    "checksum_type": "sha256",
+                    "checksum": "33c65e386ff92555c5daaf7af7335b722d96659270bb61beb17c6d5d7c6335b9"
+                }
+            ]
+        }
+    ]
+}
